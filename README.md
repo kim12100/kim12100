@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kim12100
+- 👋 Hi, I’m Woocheol Kim.
 - 👀 I’m interested in marketing and data science. 
 - 🌱 I’m currently learning marketing experiments, microeconomics and data science. 
 - 💞️ I’m looking to collaborate on marketing projects that benefit consumers, firms and a society we live in. 
