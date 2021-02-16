@@ -2,7 +2,7 @@
 - 👀 I’m interested in marketing and data analytics. 
 - 🌱 I’m currently learning marketing experiments, microeconomics and data science in R.
 - 💞️ I’m looking to collaborate on marketing projects that benefit consumers, firms and a society we live in. 
-- 📫 How to reach me: Contact me at wkim4@uoregon.edu
+- 📫 How to reach me: 
 
 <!---
 kim12100/kim12100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
