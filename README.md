@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Woocheol Kim.
-- 👀 I’m interested in marketing and data science. 
-- 🌱 I’m currently learning marketing experiments, microeconomics and data science. 
+- 👀 I’m interested in marketing and data analytics. 
+- 🌱 I’m currently learning marketing experiments, microeconomics and data science in R.
 - 💞️ I’m looking to collaborate on marketing projects that benefit consumers, firms and a society we live in. 
 - 📫 How to reach me: Contact me at wkim4@uoregon.edu
 
